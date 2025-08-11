@@ -1,0 +1,11 @@
+ipython
+re
+nbformat
+os
+json
+pandas
+datetime
+matplotlib
+seaborn
+numpy
+zoneinfo
