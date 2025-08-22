@@ -5,7 +5,7 @@ From guilty pleasures I swore I’d never admit, to lo-fi beats that fueled both
 
 ## Project information
 - **Conducted by**: Tai Nguyen *(tainguyen0604@gmail.com)*
-- **Period**: Aug 11th – Aug 12th 2025 *(Data exported from Spotify – timestamps normalized to UTC+7)*
+- **Period**: Aug 11th – Aug 13th 2025 *(Data exported from Spotify – timestamps normalized to UTC+7)*
 - **Contribution breakdown:**
     | Source             | Description                                                                  | %     |
     |--------------------|-------------------------------------------------------------------------------|-------|
