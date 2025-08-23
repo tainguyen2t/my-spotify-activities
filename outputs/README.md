@@ -35,7 +35,11 @@
   - VI.1. MY STREAMINGs Media Types contributions
   - VI.2. TOP 20 MY STREAMINGs audio tracks
   - VI.3. TOP 20 MY STREAMINGs audio artists
+    - VI.3.+ [WORDCLOUD] TOP audio artists
+    - VI.3.++ [TREEMAP] TOP audio artists
   - VI.4. TOP 20 MY STREAMINGs audio albums
+    - VI.4.+ [WORDCLOUD] TOP audio albums
+    - VI.4.++ [TREEMAP] TOP audio albums
   - VI.5. MY STREAMINGs by year
   - VI.6. MY STREAMINGs by month
   - VI.7. MY STREAMINGs Top Artist by month
@@ -75,8 +79,20 @@
 ## **VI.3. TOP 20 MY STREAMINGs audio artists**
 ![](images/VI.3.-TOP-20-MY-STREAMINGs-audio-artists.png)
 
+### **VI.3.+ [WORDCLOUD] TOP audio artists**
+![](images/VI.3.-WORDCLOUD-TOP-audio-artists.png)
+
+### **VI.3.++ [TREEMAP] TOP audio artists**
+![](images/VI.3.-TREEMAP-TOP-audio-artists.png)
+
 ## **VI.4. TOP 20 MY STREAMINGs audio albums**
 ![](images/VI.4.-TOP-20-MY-STREAMINGs-audio-albums.png)
+
+### **VI.4.+ [WORDCLOUD] TOP audio albums**
+![](images/VI.4.-WORDCLOUD-TOP-audio-albums.png)
+
+### **VI.4.++ [TREEMAP] TOP audio albums**
+![](images/VI.4.-TREEMAP-TOP-audio-albums.png)
 
 ## **VI.5. MY STREAMINGs by year**
 ![](images/VI.5.-MY-STREAMINGs-by-year.png)
