@@ -3,6 +3,9 @@
 This project digs deep into my **Spotify listening history** — from the chaotic playlist experiments of my early days to the late-night “just one more track” spirals 🎧.  
 From guilty pleasures I swore I’d never admit, to lo-fi beats that fueled both focus and procrastination, this is my **personal soundtrack archive**.
 
+<img src="outputs/images/VI.3.-TREEMAP-TOP-audio-artists.png" width="600">
+
+
 ## Project information
 - **Conducted by**: Tai Nguyen *(tainguyen0604@gmail.com)*
 - **Period**: Aug 11th – Aug 13th 2025 *(Data exported from Spotify – timestamps normalized to UTC+7)*
